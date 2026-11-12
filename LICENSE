@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 Thanh Duc Vu, Xuan Cho Do, Long Giang Nguyen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+Scope. The terms above cover everything authored by us in this package: the
+scripts, the documentation, and the derived result files under revision_run/
+and verification/r2_verification_output/.
+
+Third-party data. The NetFlow-v2 benchmark suite and the Unraveled APT testbed
+are not redistributed here and are not covered by this license. They remain
+under the terms set by their original publishers, which are cited in the
+article. The derived files in this package were computed from those datasets
+and are released only to the extent those terms permit.
+
+Attribution. If you use this package, please cite the accompanying article:
+Thanh Duc Vu, Xuan Cho Do, Long Giang Nguyen, "Silent Failure in Cross-Network
+Intrusion Detection: Label-Efficient Canary Monitoring under Rare Attacks".
